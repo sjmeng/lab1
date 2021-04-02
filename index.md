@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+#About Me ADD IMAGE
 
-You can use the [editor on GitHub](https://github.com/sjmeng/lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Sarah Meng. I'm a second year CS major in Marshall College at UCSD. I spent the majority of last year doing biomedical informatics research under Professor Moshiri and working on the preprint of my paper. This summer I'll be interning at Amazon in Seattle. My hobbies include baking, running for the UCSD Cross Country and Track Team, and suppressing my raging Imposter Syndrome. My favorite command is System.out.printl("Hello, World.").
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Current Goals
 
-### Markdown
+ Practice LeetCode
+ Create some personal projects
+ Get to know more people!
+##Fun Facts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm on the UCSD Overwatch Esports Team
+I have a chinchilla (his name is Charlie)
+Find out my favorite programming language here
+##Relevant Links
 
-```markdown
-Syntax highlighted code block
+LinkedIn
+Instagram
+Paper preprint- An Evaluation of Phylogenetic Workflows in Viral Molecular Epidemiology
+##Freebies For lack of other content, here is a gif of an axolotl I made to annoy my sister and a quote because I still need to fill some criteria.
 
-# Header 1
-## Header 2
-### Header 3
+I'm the joker, baby - Drew Russel
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjmeng/lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###Axolotl gif?
