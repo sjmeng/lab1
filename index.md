@@ -1,5 +1,7 @@
 ## About Me
-ADD IMAGE
+
+![image](https://user-images.githubusercontent.com/60704795/113500178-d73ade80-94d0-11eb-9ffa-5e4bcc1f1645.png)
+
 
 Hi! My name is **Sarah Meng**. I'm a second year CS major in Marshall College at UCSD. I spent the majority of last year doing biomedical informatics research under Professor Moshiri and working on the preprint of my paper. This summer I'll be interning at Amazon in Seattle. My hobbies include baking, running for the UCSD Cross Country and Track Team, and suppressing my raging Imposter Syndrome. My favorite command is `System.out.printl("Hello, World.")`. Click [here](https://github.com/sjmeng/lab1/blob/gh-pages/index.md#axolotl) to skip the text and see a gif.
 
@@ -25,7 +27,8 @@ Hi! My name is **Sarah Meng**. I'm a second year CS major in Marshall College at
 ### Freebies
 For lack of other content, here is a gif of an axolotl I made to annoy my sister and a quote because I still need to fill some criteria.
 >I'm the joker, baby
-- Drew Russel
+
+    - Drew Russel
 
 #### Axolotl
 gif?
