@@ -24,7 +24,7 @@ Hi! My name is **Sarah Meng**. I'm a second year CS major in Marshall College at
 
 
 ### Freebies
-For lack of other content, here is a gif of an axolotl I made to annoy my sister and a quote because I still need to fill some criteria.
+For lack of other content, here is a gif of an axolotl I made to annoy my sister and a quote because I ✧ _still need to fill some criteria_ ✧.
 
 >I'm the joker, baby
 
