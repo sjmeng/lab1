@@ -14,7 +14,7 @@ Hi! My name is **Sarah Meng**. I'm a second year CS major in Marshall College at
 
 ### Fun Facts
 - I'm on the UCSD Overwatch Esports Team
-- I have a chinchilla (his name is Charlie)
+- I have a chinchilla (his name is [Charlie](chinchilla.jpg)
 
 
 ### Relevant Links
@@ -25,9 +25,10 @@ Hi! My name is **Sarah Meng**. I'm a second year CS major in Marshall College at
 
 ### Freebies
 For lack of other content, here is a gif of an axolotl I made to annoy my sister and a quote because I still need to fill some criteria.
+
 >I'm the joker, baby
 
-    - Drew Russel
+-Drew Russel
 
 #### Axolotl
 ![axolotl gif cropped](https://user-images.githubusercontent.com/60704795/113501367-5a603280-94d9-11eb-9ff8-c93166c9bc2c.gif)
