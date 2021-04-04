@@ -31,4 +31,6 @@ For lack of other content, here is a gif of an axolotl I made to annoy my sister
     - Drew Russel
 
 #### Axolotl
-gif?
+![axolotl gif cropped](https://user-images.githubusercontent.com/60704795/113501367-5a603280-94d9-11eb-9ff8-c93166c9bc2c.gif)
+
+
