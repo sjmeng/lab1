@@ -14,7 +14,7 @@ Hi! My name is **Sarah Meng**. I'm a second year CS major in Marshall College at
 
 ### Fun Facts
 - I'm on the UCSD Overwatch Esports Team
-- I have a chinchilla (his name is [Charlie](chinchilla.jpg)
+- I have a chinchilla (his name is [Charlie](chinchilla.jpg))
 
 
 ### Relevant Links
