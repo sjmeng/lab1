@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Introduction
+github:
+  repository_url: https://github.com/sjmeng/lab1/blob/gh-pages/index.md
