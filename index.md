@@ -1,6 +1,6 @@
 ## About Me
 
-![image](https://github.com/sjmeng/lab1/blob/gh-pages/pfp_github.png)
+![image](pfp_github.png)
 
 Hi!👋 My name is **Sarah Meng**. I'm a second year CS major in Marshall College at UCSD. I spent the majority of last year doing biomedical informatics research under Professor Moshiri and working on the preprint of my paper. This summer I'll be interning at Amazon in Seattle. My hobbies include baking, running for the UCSD Cross Country and Track Team, and suppressing my raging Imposter Syndrome. My favorite command is `System.out.println("Hello, World.")`. Click [here](https://github.com/sjmeng/lab1/blob/gh-pages/index.md#axolotl) to skip the text and see a gif.
 
